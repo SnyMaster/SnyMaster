@@ -1,7 +1,8 @@
 # Hi there 👋
 
-I am DEVELOPER.
+I am Salesforse Certified Developer (SFPD I) and Fullstack Web Developer.
 
-Salesforce  (LC, APEX, Visualforce)
+My expertise in Salesforce is LWC, APEX, Visualforce, REST API, Experience Cloud, Sales Cloud, Marketing Cloud
 
-PHP  (PHP, YII, Javascript)
+My expetise in web development is PHP (Yii, Laravel, Phalcon), Javascript (Jquery, React, Vue), CSS, HTML
+
