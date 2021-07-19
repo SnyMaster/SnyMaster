@@ -4,6 +4,8 @@
 
 I am Salesforse Certified Developer (SFPD I) and Fullstack Web Developer.
 
+(<img src="https://img.shields.io/badge/Dev%20Experience-%3E%2010%20years-green?style=for-the-badge&logo=appveyor" />)
+
 My expertise in Salesforce is LWC, Aura, APEX, Visualforce, REST API, Experience Cloud, Sales Cloud, Marketing Cloud
 
 My expertise in web development is PHP (Yii, Laravel, Phalcon), Javascript (Jquery, React, Vue), CSS, HTML, MySQL
