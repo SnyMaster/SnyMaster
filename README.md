@@ -32,3 +32,5 @@
 [![APEX](https://img.shields.io/badge/CSS%20%20%20-green?style=for-the-badge&logo=CSS3)]()&nbsp;&nbsp;
 
 > ### Examples of WEB projects
+> * [Insurance](https://bitbucket.org/SnyMaster/insurance/src/master/)
+> * [Currency Calc](https://bitbucket.org/SnyMaster/curerncy/src/master/)
