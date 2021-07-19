@@ -1,4 +1,4 @@
-<img src="https://drm--c.na114.content.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mtz&amp;oid=00DF0000000gZsu&amp;lastMod=1617268528000" alt="" style="height:50px;weight:auto>
+<img src="https://drm--c.na114.content.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mtz&amp;oid=00DF0000000gZsu&amp;lastMod=1617268528000" alt="" style="height:50px;weight:auto">
 
 # Hi there 👋
 
