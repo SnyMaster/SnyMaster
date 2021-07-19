@@ -33,4 +33,4 @@
 
 > ### Examples of WEB projects
 > * [Insurance](https://bitbucket.org/SnyMaster/insurance/src/master/)
-> * [Currency Calc](https://bitbucket.org/SnyMaster/curerncy/src/master/)
+> * [Amimal Holder](https://bitbucket.org/SnyMaster/holder/src/master/)
