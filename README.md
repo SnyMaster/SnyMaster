@@ -21,7 +21,7 @@
 [![APEX](https://img.shields.io/badge/Marketing%20Cloud%20%20%20-blue?style=for-the-badge&logo=salesforce)]()&nbsp;&nbsp;
 
 > ### Examples of SF projects
-
+> * Sorry, this section is under construction
 <br/>
 
 ## Web Development Expertise
