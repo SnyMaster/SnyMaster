@@ -16,8 +16,10 @@
 [![APEX](https://img.shields.io/badge/Aura%20%20%20-blue?style=for-the-badge&logo=salesforce)]()&nbsp;&nbsp;
 [![APEX](https://img.shields.io/badge/VisualForce%20%20%20-blue?style=for-the-badge&logo=salesforce)]()&nbsp;&nbsp;
 [![APEX](https://img.shields.io/badge/REST%20API%20%20%20-blue?style=for-the-badge&logo=salesforce)]()&nbsp;&nbsp;
+[![APEX](https://img.shields.io/badge/Heroku%20%20%20-blue?style=for-the-badge&logo=salesforce)]()&nbsp;&nbsp;
 [![APEX](https://img.shields.io/badge/Experience%20Cloud%20%20%20-blue?style=for-the-badge&logo=salesforce)]()&nbsp;&nbsp;
 [![APEX](https://img.shields.io/badge/Sales%20Cloud%20%20%20-blue?style=for-the-badge&logo=salesforce)]()&nbsp;&nbsp;
+[![APEX](https://img.shields.io/badge/Services%20Cloud%20%20%20-blue?style=for-the-badge&logo=salesforce)]()&nbsp;&nbsp;
 [![APEX](https://img.shields.io/badge/Marketing%20Cloud%20%20%20-blue?style=for-the-badge&logo=salesforce)]()&nbsp;&nbsp;
 
 > ### Examples of SF projects
