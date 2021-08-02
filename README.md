@@ -37,3 +37,7 @@
 > ### WEB code examples
 > * [Insurance](https://bitbucket.org/SnyMaster/insurance/src/master/)
 > * [Amimal Holder](https://bitbucket.org/SnyMaster/holder/src/master/)
+
+## Get in touch
+* [Linkedin](www.linkedin.com/in/sergei-iakovenko-b329a6161)
+
