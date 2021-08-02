@@ -23,7 +23,8 @@
 [![APEX](https://img.shields.io/badge/Marketing%20Cloud%20%20%20-blue?style=for-the-badge&logo=salesforce)]()&nbsp;&nbsp;
 
 > ### SF code example
-> * [Order Record Page](https://bitbucket.org/SnyMaster/order-record/src/master/)
+> * [Order Record Page](https://bitbucket.org/SnyMaster/order-record)
+> * [Event Notifier](https://bitbucket.org/SnyMaster/event-notifier)
 <br/>
 
 ## Web Development Expertise
