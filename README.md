@@ -8,7 +8,8 @@
 [![SF Experiece](https://img.shields.io/badge/Salesforce%20-2%20%20years-blue?style=for-the-badge&logo=appveyor)]()&nbsp;&nbsp;
 [![DEV Experience](https://img.shields.io/badge/Web%20Development%20-%3E%2015%20years-green?style=for-the-badge&logo=appveyor)]()
 
-<br/>
+### Get in touch
+* [Linkedin](www.linkedin.com/in/sergei-iakovenko-b329a6161) || [Email](mailto:open.box@mail.ru)
 
 ## Salesforce Expertise 
 [![APEX](https://img.shields.io/badge/APEX%20%20%20-blue?style=for-the-badge&logo=salesforce)]()&nbsp;&nbsp;
@@ -37,7 +38,3 @@
 > ### WEB code examples
 > * [Insurance](https://bitbucket.org/SnyMaster/insurance/src/master/)
 > * [Amimal Holder](https://bitbucket.org/SnyMaster/holder/src/master/)
-
-## Get in touch
-* [Linkedin](www.linkedin.com/in/sergei-iakovenko-b329a6161)
-
