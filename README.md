@@ -1,5 +1,8 @@
-<img height="85px" weight="85px" src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Platform-Developer-I.png" />
-  
+<div>
+  <img float:left height="85px" weight="85px" src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Platform-Developer-I.png" />
+  <img float:left height="85px" weight="85px" src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Platform-Developer-II.png" /> 
+  <img float:left height="85px" weight="85px" src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Platform-App-Builder.png" />
+</div>
 
 
 # Hi there 👋
