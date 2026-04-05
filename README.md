@@ -5,10 +5,8 @@
 </div>
 
 
-# Hi there 👋
-
-## I am Salesforse Certified Developer (SFPD I, SFPD II, SF App Builder) and Fullstack Web Developer.
-[![SF Experiece](https://img.shields.io/badge/Salesforce%20-3%20%20years-blue?style=for-the-badge&logo=salesforce)]()&nbsp;&nbsp;
+## Salesforce Certified Developer (SFPD I, SFPD II, SF App Builder) and Fullstack Web Developer.
+[![SF Experiece](https://img.shields.io/badge/Salesforce%20-6%20%20years-blue?style=for-the-badge&logo=salesforce)]()&nbsp;&nbsp;
 [![DEV Experience](https://img.shields.io/badge/Web%20Development%20-%3E%2015%20years-green?style=for-the-badge&logo=appveyor)]()
 
 ### Get in touch
