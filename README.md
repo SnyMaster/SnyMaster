@@ -4,7 +4,7 @@
 
 # Hi there 👋
 
-## I am Salesforse Certified Developer (SFPD I, SF App Builder) and Fullstack Web Developer.
+## I am Salesforse Certified Developer (SFPD I, SFPD I, SF App Builder) and Fullstack Web Developer.
 [![SF Experiece](https://img.shields.io/badge/Salesforce%20-3%20%20years-blue?style=for-the-badge&logo=salesforce)]()&nbsp;&nbsp;
 [![DEV Experience](https://img.shields.io/badge/Web%20Development%20-%3E%2015%20years-green?style=for-the-badge&logo=appveyor)]()
 
